@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🚗 Bem-vindo ao meu GitHub! 🏁
 
-<!--
-**Mariaclacla/Mariaclacla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🏁 Apaixonada por carros esportivos 
+_ Gosto de todos tipos de carros menos os eletricos  
+-Gosto dos detalhes estéticos, como linhas, acabamento e pinturas
+Famosos de carros esportivos:
+Ferrari F8 Tributo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Porsche 911
+
+Lamborghini Huracán
+
+Chevrolet Corvette
+
+Audi R8
+
+
+
+Carros esportivos são veículos projetados para oferecer alta performance, velocidade, agilidade e prazer ao dirigir. Eles combinam design aerodinâmico, motores potentes e tecnologias avançadas para maximizar a experiência de condução
+
+
+
+> "Dirigir é a maneira mais pura de experimentar liberdade em movimento." – Enzo Ferrari
+>
+> ![15c14a54eab39ce83c3d1a6b4ea8ca7d](https://github.com/user-attachments/assets/01f6c18e-8979-46f6-b1cd-c742c83f61a3)
